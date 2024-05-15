@@ -1,5 +1,8 @@
-# 💫 About Me:
+# About Me:
 </> I'm a Backend Developer, proficient in building sustainable backends for web applications.<br>🐍 Python and Django/Rest Framework are the strongest weapons in arsenal.<br>🔭 Currently working on an idea to help gamers and the gaming industry.<br>📫 Reach me at - sirius.adarsh@gmail.com<br>📄 Professional Experience - https://backend-dev-adarsh.tiiny.site/
+
+---
+[![](https://visitcount.itsvg.in/api?id=iblameadarsh&icon=9&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -12,7 +15,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iblameadarsh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iblameadarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=iblameadarsh&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
