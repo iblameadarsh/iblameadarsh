@@ -1,5 +1,13 @@
-# About Me:
-</> I'm a Backend Developer, proficient in building sustainable backends for web applications.<br>🐍 Python and Django/Rest Framework are the strongest weapons in arsenal.<br>🔭 Currently working on designing and developing an ERP system to manage clients, finances, stocks and inventory along with sales and profit analysis.<br>📫 Reach me at - sirius.adarsh@gmail.com<br>📄 Professional Experience - https://backend-dev-adarsh.tiiny.site/
+# Hey there, I'm Adarsh!
+
+---
+
+
+</> I'm a Backend Developer, proficient in building sustainable backends for web applications.<br>
+🐍 Python and Django/Rest Framework are the strongest weapons in arsenal.<br>
+🔭 Currently working on designing and developing an ERP system to manage clients, finances, stocks and inventory along with sales and profit analysis.<br>
+📫 Reach me at - sirius.adarsh@gmail.com<br>
+📄 Professional Experience - https://backend-dev-adarsh.tiiny.site/<br>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iblamadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-singh-0" /> </p>
