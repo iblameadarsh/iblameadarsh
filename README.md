@@ -1,9 +1,10 @@
 # About Me:
-</> I'm a Backend Developer, proficient in building sustainable backends for web applications.<br>🐍 Python and Django/Rest Framework are the strongest weapons in arsenal.<br>🔭 Currently working on an idea to help gamers and the gaming industry.<br>📫 Reach me at - sirius.adarsh@gmail.com<br>📄 Professional Experience - https://backend-dev-adarsh.tiiny.site/
+</> I'm a Backend Developer, proficient in building sustainable backends for web applications.<br>🐍 Python and Django/Rest Framework are the strongest weapons in arsenal.<br>🔭 Currently working on designing and developing some an ERP systems to manage clients, finances, stocks and inventory along with sales and profit analysis.<br>📫 Reach me at - sirius.adarsh@gmail.com<br>📄 Professional Experience - https://backend-dev-adarsh.tiiny.site/
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iblameadarsh&icon=9&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iblamadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-singh-0" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iblameadarsh" alt="iblameadarsh" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-226196191) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iblameadarsh) 
